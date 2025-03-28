@@ -1,0 +1,5 @@
+{names: [eyes, eyebrows, lips, mustache-beard, nose], nc: 5, test: 'D:\Hassan Ali\Projects\Machine
+    Learning\Features of Face Extraction\Facial Feature Extraction Dataset\test',
+  train: 'D:\Hassan Ali\Projects\Machine Learning\Features of Face Extraction\Facial
+    Feature Extraction Dataset\train', val: 'D:\Hassan Ali\Projects\Machine Learning\Features
+    of Face Extraction\Facial Feature Extraction Dataset\valid'}
