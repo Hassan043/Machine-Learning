@@ -1,0 +1,8 @@
+# Ignore the entire dataset folder
+Features of Face Extraction/
+Features of Face Extraction/Facial Feature Extraction Dataset/
+
+# Ignore checkpoint and model files
+Features of Face Extraction/checkpoint_epoch_*.pth
+Features of Face Extraction/best_model.pth
+Features of Face Extraction/model.onnx
